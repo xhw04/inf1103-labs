@@ -17,5 +17,5 @@ while user_input != "quit":
 
 else:
     # reporting
-    print("Total Units Processed", value)
+
     print("Number of Failed/Rejected Entries", user_input)
