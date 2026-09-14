@@ -1,4 +1,3 @@
-
 # smart inventory auditor
 # inventory is 0
 inventory = 0
